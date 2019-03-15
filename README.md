@@ -1,9 +1,10 @@
 ## My_World
 
-My_World is a complete map editor using an isometric view. (vertex)
-Using brushes you can create your own map and save it. (saved in map directory)
+My_World is a complete map editor using an isometric view. (vertex).
+Using brushes you can create your own map and save it. (saved in map directory).
+The map generation is made with Perlin noise algorithm (https://en.wikipedia.org/wiki/Perlin_noise).
 
-Control in the map editor:
+## Control / Shortcut:
 
 N: erase map
 M: regenerate map
