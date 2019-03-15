@@ -1,21 +1,21 @@
 ## My_World
 
-My_World is a complete map editor using an isometric view. (vertex).
-Using brushes you can create your own map and save it. (saved in map directory).
-The map generation is made with Perlin noise algorithm (https://en.wikipedia.org/wiki/Perlin_noise).
+My_World is a complete map editor using an isometric view. (vertex).  
+Using brushes you can create your own map and save it. (saved in map directory).  
+The map generation is made with Perlin noise algorithm (https://en.wikipedia.org/wiki/Perlin_noise).  
 
 ## Control / Shortcut:
 
-N: erase map
-M: regenerate map
-Ctrl + Brush: Equalize map
-Shift + Brush: Lock a vertex position
-Scroll: Zoom+/-
-RightClick: lower the map
-LeftClick: raise the map
-Space: center map
-ZQSD / ArrowsKeys: Move map
-IJKL: Rotate map
+N: erase map  
+M: regenerate map  
+Ctrl + Brush: Equalize map  
+Shift + Brush: Lock a vertex position  
+Scroll: Zoom+/-  
+RightClick: lower the map  
+LeftClick: raise the map  
+Space: center map  
+ZQSD / ArrowsKeys: Move map  
+IJKL: Rotate map  
 
 ## Getting started
 
@@ -23,14 +23,14 @@ IJKL: Rotate map
 2) ```make re```  
 3) ```./my_world```
 
-### Requirement
+### Requirement  
 
-CSFML [Download](https://www.sfml-dev.org/download/csfml/index-fr.php)
+CSFML [Download](https://www.sfml-dev.org/download/csfml/index-fr.php)  
 
-## Author
+## Author  
 
-* **Théo CERUTTI**
-* **Cyril BEGARD**
+* **Théo CERUTTI**  
+* **Cyril BEGARD**  
 
 ## View
 
